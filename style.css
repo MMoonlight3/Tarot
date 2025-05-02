@@ -1,0 +1,15 @@
+.container {
+    height: 50px;
+    display: flex;
+    justify-content: center; /* 가로 가운데 */
+}
+.BTN {
+    background-color: #0a0a23;
+    color: #fff;
+    border: none;
+
+    border-radius: 10px;
+    padding: 15px;
+    min-height: 30px;
+    min-width: 120px;
+  }
