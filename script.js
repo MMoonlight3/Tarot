@@ -294,7 +294,7 @@ const tarotCards = [
     },
     {
         name: "Ten of Swords",
-        image: "images/소드9.jpg",
+        image: "images/10소드.jpg",
         meaning: "종말, 배신, 고통"
     },
     {
